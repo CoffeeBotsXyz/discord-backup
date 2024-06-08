@@ -1,0 +1,44 @@
+{
+  "name": "@coffeebots/discord-backup",
+  "version": "1.0.0",
+  "description": "A complete framework to facilitate server backup using discord.js v14",
+  "main": "lib/index.js",
+  "files": [
+    "lib/**/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "lint": "tslint -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coffeebotsxyz/discord-backup.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "backup",
+    "clone",
+    "bot",
+    "discord-backup"
+  ],
+  "author": "coffeebotsxyz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coffeebotsxyz/discord-backup/issues"
+  },
+  "homepage": "https://github.com/coffeebotsxyz/discord-backup/blob/master/README.md",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "prettier": "^2.0.4",
+    "tslint": "^6.1.1",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^5.4.5"
+  }
+}
