@@ -6,9 +6,6 @@
     <a href="https://www.npmjs.com/package/@coffeebots/discord-backup"> <img src="https://img.shields.io/npm/dt/@coffeebots/discord-backup.svg?maxAge=3600" alt="npm downloads"/> </a>
 </div>
 
-<!-- [![downloadsBadge](https://img.shields.io/npm/dt/@coffeebots/discord-backup?style=for-the-badge)](https://npmjs.com/@coffeebots/discord-backup)
-[![versionBadge](https://img.shields.io/npm/v/@coffeebots/discord-backup?style=for-the-badge)](https://npmjs.com/@coffeebots/discord-backup) -->
-
 @coffeebots/discord-backup is a powerful [Node.js](https://nodejs.org) module that allows you to easily manage discord server backups!
 
 ## Features
